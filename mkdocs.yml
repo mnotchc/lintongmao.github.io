@@ -6,7 +6,7 @@ repo_url: 'https://github.com/lintongmao/lintongmao.github.io'
 
 nav:
     - Home: index.md
-    - Deep Learning:
+    - Regularization:
       - dropout.md
     - About: about.md
 theme: material
