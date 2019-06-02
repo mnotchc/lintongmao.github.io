@@ -1,0 +1,15 @@
+site_name: Abracadabra!
+site_author: 'lintongmao'
+
+repo_name: 'looperxx/lintongmao.github.io'
+repo_url: 'https://github.com/lintongmao/lintongmao.github.io'
+
+nav:
+    - Home: index.md
+    - About: about.md
+theme: material
+extra_javascript: 
+    - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML
+
+markdown_extensions:
+    - mdx_math
