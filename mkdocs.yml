@@ -1,11 +1,13 @@
 site_name: Abracadabra!
 site_author: 'lintongmao'
 
-repo_name: 'looperxx/lintongmao.github.io'
+repo_name: 'lintongmao/lintongmao.github.io'
 repo_url: 'https://github.com/lintongmao/lintongmao.github.io'
 
 nav:
     - Home: index.md
+    - Deep Learning:
+      - dropout.md
     - About: about.md
 theme: material
 extra_javascript: 

@@ -1,4 +1,5 @@
-$$
-\alpha\beta\rho\alpha\chi\alpha\delta\alpha\beta\rho\alpha
-$$
+Here is a skim of this website:
 
+### REGULARIZATION
+
+-  [Dropout Method](dropout.md)
