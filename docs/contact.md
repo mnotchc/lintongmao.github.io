@@ -7,5 +7,5 @@ Welcome to my website!
 
 
 
-I'm now a student @NEU(CN). You can reach me at: lintongmao@outlook.com.
+I'm now a student @NEU(CN). You can reach me at [my email](//lintongmao@outlook.com).
 

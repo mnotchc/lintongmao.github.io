@@ -1,6 +1,6 @@
 ### 1. What is dropout?
 
-Dropout is a **simple** and **powerful** regularization method used in modern neural networks. The key idea is to randomly drop units (along with their connections) from the neural network during training, with a probability \(p\), which is normally referred to as the ***dropout rate***. Figure 1 illustrates how dropout is applied to a standard neural network (when training).
+Dropout is a **simple** and **powerful** regularization method used in modern neural networks. The key idea is to randomly drop units (along with their connections) from the neural network during training with a probability \(p\), which is normally referred to as the ***dropout rate***. Figure 1 illustrates how dropout is applied to a standard neural network (when training).
 
 ![image-20190602183920010](img/dropout.png)
 
