@@ -2,7 +2,7 @@
 
 Here is a skim of this website:
 
-### REGULARIZATION
+### DEEP LEARNING
 - [Notes on RNN](rnn.md)
 
 ### REGULARIZATION
