@@ -113,7 +113,7 @@ RNNs combine the input vector with their state vector with a fixed (but learned)
 **P.S.**
 
 In [Siegelmann and Sontag, 1991](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.47.8383), the authors models a recursive net with continuous-valued neurons as a dynamical system and remark that 
-not only can one simulate a processor net with a Turing machine but any function computable by a Turing machine can be computed by a processor net. The paper shows a universal Turing machine can be simulated 
+not only can one simulate a processor net with a Turing machine, but any function computable by a Turing machine can be computed by a processor net. The paper shows that a universal Turing machine can be simulated 
 by a finite neural network made up of sigmoidal neurons.
 
 > If training vanilla neural nets is optimization over functions, training recurrent nets is optimization over programs.
